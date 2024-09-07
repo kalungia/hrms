@@ -64,7 +64,7 @@
    "in_list_view": 1,
    "in_standard_filter": 1,
    "label": "Status",
-   "options": "Pending\nRescheduled Interview\nUnder Review\nCleared\nRejected",
+   "options": "Pending\nRescheduled Interview\nUnder Review\nCleared\nRejected\nMissed Interview",
    "reqd": 1
   },
   {
